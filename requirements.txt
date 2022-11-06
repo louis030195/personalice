@@ -9,3 +9,4 @@ ipywidgets
 pandas
 git+https://github.com/JustAnotherArchivist/snscrape.git
 openai
+sentence_transformers
