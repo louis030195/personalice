@@ -1,0 +1,6 @@
+# Python garbage
+.ipynb_checkpoints
+env
+
+# APIs
+.env
